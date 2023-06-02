@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Studies\\Dio-Sepro-Formacao_DotNET_Dev_Enterprise\\Dio.Formação_DotNET_Dev_Enterprise.csproj",
+      "projectUniqueName": "D:\\Studies\\Dio.Sepro-FormacaoDotNetDevEnterprise\\Dio.Formação_DotNET_Dev_Enterprise.csproj",
       "projectName": "Dio.Formação_DotNET_Dev_Enterprise",
-      "projectPath": "D:\\Studies\\Dio-Sepro-Formacao_DotNET_Dev_Enterprise\\Dio.Formação_DotNET_Dev_Enterprise.csproj",
+      "projectPath": "D:\\Studies\\Dio.Sepro-FormacaoDotNetDevEnterprise\\Dio.Formação_DotNET_Dev_Enterprise.csproj",
       "packagesPath": "C:\\Users\\oberd\\.nuget\\packages\\",
-      "outputPath": "D:\\Studies\\Dio-Sepro-Formacao_DotNET_Dev_Enterprise\\obj\\",
+      "outputPath": "D:\\Studies\\Dio.Sepro-FormacaoDotNetDevEnterprise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\oberd\\AppData\\Roaming\\NuGet\\NuGet.Config",
