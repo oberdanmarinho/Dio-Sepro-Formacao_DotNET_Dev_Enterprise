@@ -1,2 +1,2 @@
-09.05.2023-22:16 ok (Dell)<br>
-06.01.2023-22:58 ok (Dell)
+09.05.2023-22:16 ok (Dell)<br> 01.06.2023-22:58 ok (Dell)<br> 06.06.2023-23:13 ok (Dell)<br> Sintaxe e Tipos de Dados em C#<br> Aula 01 ok<br> Aula 02 ok<br>
+Aula 03 ok<br> Aula 04 ok<br> Aula 05 ok<br> Aula 06 ok<br> Aula 07 ok<br> Aula 08<br> Aula 09<br> Aula 10<br> Aula 11<br>

@@ -1,0 +1,15 @@
+D:\Studies\Dio.Sepro-FormacaoDotNetDevEnterprise\bin\Debug\net7.0\Dio.Formação_DotNET_Dev_Enterprise.exe
+D:\Studies\Dio.Sepro-FormacaoDotNetDevEnterprise\bin\Debug\net7.0\Dio.Formação_DotNET_Dev_Enterprise.deps.json
+D:\Studies\Dio.Sepro-FormacaoDotNetDevEnterprise\bin\Debug\net7.0\Dio.Formação_DotNET_Dev_Enterprise.runtimeconfig.json
+D:\Studies\Dio.Sepro-FormacaoDotNetDevEnterprise\bin\Debug\net7.0\Dio.Formação_DotNET_Dev_Enterprise.dll
+D:\Studies\Dio.Sepro-FormacaoDotNetDevEnterprise\bin\Debug\net7.0\Dio.Formação_DotNET_Dev_Enterprise.pdb
+D:\Studies\Dio.Sepro-FormacaoDotNetDevEnterprise\obj\Debug\net7.0\Dio.Formação_DotNET_Dev_Enterprise.csproj.AssemblyReference.cache
+D:\Studies\Dio.Sepro-FormacaoDotNetDevEnterprise\obj\Debug\net7.0\Dio.Formação_DotNET_Dev_Enterprise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Dio.Sepro-FormacaoDotNetDevEnterprise\obj\Debug\net7.0\Dio.Formação_DotNET_Dev_Enterprise.AssemblyInfoInputs.cache
+D:\Studies\Dio.Sepro-FormacaoDotNetDevEnterprise\obj\Debug\net7.0\Dio.Formação_DotNET_Dev_Enterprise.AssemblyInfo.cs
+D:\Studies\Dio.Sepro-FormacaoDotNetDevEnterprise\obj\Debug\net7.0\Dio.Formação_DotNET_Dev_Enterprise.csproj.CoreCompileInputs.cache
+D:\Studies\Dio.Sepro-FormacaoDotNetDevEnterprise\obj\Debug\net7.0\Dio.Formação_DotNET_Dev_Enterprise.dll
+D:\Studies\Dio.Sepro-FormacaoDotNetDevEnterprise\obj\Debug\net7.0\refint\Dio.Formação_DotNET_Dev_Enterprise.dll
+D:\Studies\Dio.Sepro-FormacaoDotNetDevEnterprise\obj\Debug\net7.0\Dio.Formação_DotNET_Dev_Enterprise.pdb
+D:\Studies\Dio.Sepro-FormacaoDotNetDevEnterprise\obj\Debug\net7.0\Dio.Formação_DotNET_Dev_Enterprise.genruntimeconfig.cache
+D:\Studies\Dio.Sepro-FormacaoDotNetDevEnterprise\obj\Debug\net7.0\ref\Dio.Formação_DotNET_Dev_Enterprise.dll
