@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studies\\Dio.Sepro-FormacaoDotNetDevEnterprise\\Dio.Formação_DotNET_Dev_Enterprise.csproj": {}
+    "/Users/oberdanmarinho/Projects/Dio.Sepro-FormacaoDotNetDevEnterprise/Dio.Formação_DotNET_Dev_Enterprise.csproj": {}
   },
   "projects": {
-    "D:\\Studies\\Dio.Sepro-FormacaoDotNetDevEnterprise\\Dio.Formação_DotNET_Dev_Enterprise.csproj": {
+    "/Users/oberdanmarinho/Projects/Dio.Sepro-FormacaoDotNetDevEnterprise/Dio.Formação_DotNET_Dev_Enterprise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studies\\Dio.Sepro-FormacaoDotNetDevEnterprise\\Dio.Formação_DotNET_Dev_Enterprise.csproj",
+        "projectUniqueName": "/Users/oberdanmarinho/Projects/Dio.Sepro-FormacaoDotNetDevEnterprise/Dio.Formação_DotNET_Dev_Enterprise.csproj",
         "projectName": "Dio.Formação_DotNET_Dev_Enterprise",
-        "projectPath": "D:\\Studies\\Dio.Sepro-FormacaoDotNetDevEnterprise\\Dio.Formação_DotNET_Dev_Enterprise.csproj",
-        "packagesPath": "C:\\Users\\oberd\\.nuget\\packages\\",
-        "outputPath": "D:\\Studies\\Dio.Sepro-FormacaoDotNetDevEnterprise\\obj\\",
+        "projectPath": "/Users/oberdanmarinho/Projects/Dio.Sepro-FormacaoDotNetDevEnterprise/Dio.Formação_DotNET_Dev_Enterprise.csproj",
+        "packagesPath": "/Users/oberdanmarinho/.nuget/packages/",
+        "outputPath": "/Users/oberdanmarinho/Projects/Dio.Sepro-FormacaoDotNetDevEnterprise/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\oberd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/oberdanmarinho/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }
