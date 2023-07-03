@@ -6,3 +6,6 @@ Aula 09 ok<br> Aula 10 ok<br> Aula 11 ok<br>
 Tipos de dados ok<br> Aula 01 ok<br> Aula 02 ok<br> Aula 03 ok<br> Aula 04 ok<br> Aula 05 ok<br>
 
 Materiais de apoio e questionário ok<br>
+
+#Tipo de operadores em C#
+
