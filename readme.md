@@ -1,4 +1,4 @@
-09.05.2023-22:16 ok (Dell) <br>
+09.05.2023-22:16 ok (Dell)<br>
 
 01.06.2023-22:58 ok (Dell)<br>
 
@@ -8,9 +8,9 @@
 
 19.06.2023-07:34 ok (Mac)<br>
 
-{ Sintaxe e Tipos de Dados em C# OK<br>
+[ Sintaxe e Tipos de Dados em C# OK<br>
 
-    [SINTAXE E IDENTAÇÃO] OK<br>
+    {SINTAXE E IDENTAÇÃO} OK<br>
       Aula 01 ok<br>
       Aula 02 ok<br>
       Aula 03 ok<br>
@@ -34,9 +34,9 @@
       Material de apoio ok<br>
       Certfique seu conhecimento ok<br>
 
-}
+]
 
-{ Tipo de operadores em C#<br>
+Tipo de operadores em C#<br>
 
     [OPERADORES DE ATRIBUIÇÃO]<br>
       Aula 01<br>
@@ -47,5 +47,3 @@
       Aula 06<br>
       Aula 07<br>
       Aula 08<br>
-
-}
