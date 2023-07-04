@@ -10,38 +10,38 @@
 
 > Sintaxe e Tipos de Dados em C# OK<br>
 
-    [SINTAXE E IDENTAÇÃO] OK<br>
-      Aula 01 ok<br>
-      Aula 02 ok<br>
-      Aula 03 ok<br>
-      Aula 04 ok<br>
-      Aula 05 ok<br>
-      Aula 06 ok<br>
-      Aula 07 ok<br>
-      Aula 08 ok<br>
-      Aula 09 ok<br>
-      Aula 10 ok<br>
-      Aula 11 ok<br>
+    [SINTAXE E IDENTAÇÃO] OK
+      Aula 01 ok
+      Aula 02 ok
+      Aula 03 ok
+      Aula 04 ok
+      Aula 05 ok
+      Aula 06 ok
+      Aula 07 ok
+      Aula 08 ok
+      Aula 09 ok
+      Aula 10 ok
+      Aula 11 ok
 
-    [TIPOS DE DADOS] OK<br>
-      Aula 01 ok<br>
-      Aula 02 ok<br>
-      Aula 03 ok<br>
-      Aula 04 ok<br>
-      Aula 05 ok<br>
+    [TIPOS DE DADOS] OK
+      Aula 01 ok
+      Aula 02 ok
+      Aula 03 ok
+      Aula 04 ok
+      Aula 05 ok
 
-    [MATERIAIS DE APOIO E QUESTIONÁRIO] OK<br>
-      Material de apoio ok<br>
-      Certfique seu conhecimento ok<br>
+    [MATERIAIS DE APOIO E QUESTIONÁRIO] OK
+      Material de apoio ok
+      Certfique seu conhecimento ok
 
 > Tipo de operadores em C#<br>
 
-    [OPERADORES DE ATRIBUIÇÃO]<br>
-      Aula 01<br>
-      Aula 02<br>
-      Aula 03<br>
-      Aula 04<br>
-      Aula 05<br>
-      Aula 06<br>
-      Aula 07<br>
-      Aula 08<br>
+    [OPERADORES DE ATRIBUIÇÃO]
+      Aula 01
+      Aula 02
+      Aula 03
+      Aula 04
+      Aula 05
+      Aula 06
+      Aula 07
+      Aula 08
