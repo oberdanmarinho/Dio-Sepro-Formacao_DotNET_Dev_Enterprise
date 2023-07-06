@@ -10,6 +10,8 @@
 
 04.07.2023-23:00 OK (Mac)<br>
 
+05.07.2023-23:53 OK (Mac)<br>
+
 > Sintaxe e Tipos de Dados em C# OK<br>
 
     [SINTAXE E IDENTAÇÃO] OK
@@ -38,12 +40,31 @@
 
 > Tipo de operadores em C#<br>
 
-    [OPERADORES DE ATRIBUIÇÃO]
+    [OPERADORES DE ATRIBUIÇÃO] OK
       Aula 01 OK
       Aula 02 OK
       Aula 03 OK
+      Aula 04 OK
+      Aula 05 OK
+      Aula 06 OK
+      Aula 07 OK
+      Aula 08 OK
+
+    [OPERADORES CONDICIONAIS]
+      Aula 01
+      Aula 02
+      Aula 03
+      Aula 04
+      Aula 05
+
+    [OPERADORES LOGICOS]
+      Aula 01
+      Aula 02
+      Aula 03
       Aula 04
       Aula 05
       Aula 06
-      Aula 07
-      Aula 08
+
+    [MATERIAIS DE APOIO E QUESTIONÁRIO]
+      Material de apoio
+      Certfique seu conhecimento
