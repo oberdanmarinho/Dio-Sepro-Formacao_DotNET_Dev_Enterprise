@@ -1,7 +1,8 @@
-﻿using Dio.Sepro_FormacaoDotNetDevEnterprise.Models;
+﻿using System.Diagnostics;
+using Dio.Sepro_FormacaoDotNetDevEnterprise.Models;
 
 // Pessoa (tipo da classe) | pessoa1(nome da variável que representa a classe) | new(instanciamento de classe) | Pessoa(Nome da classe instanciada)
-Pessoa pessoa1 = new Pessoa();
+//Pessoa pessoa1 = new Pessoa();
 
 // pessoa1.Nome = "Oberdan Marinho";
 // pessoa1.Idade = 33;
@@ -22,5 +23,100 @@ Pessoa pessoa1 = new Pessoa();
 // Console.WriteLine("O valor da variavel preco é : " + preco);
 
 
-DateTime dataAtual = DateTime.Now.AddDays(5);
-Console.WriteLine(dataAtual.ToString("dd/MM/yyyy HH:mm"));
+//DateTime dataAtual = DateTime.Now.AddDays(5);
+//Console.WriteLine(dataAtual.ToString("dd/MM/yyyy HH:mm"));
+
+
+// int quantidadeEmEstoque = 3;
+// int quantidadeCompra = 0;
+// bool possivelVenda = quantidadeCompra > 0  && quantidadeEmEstoque >= quantidadeCompra;
+
+// Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
+// Console.WriteLine($"Quantidade compra: {quantidadeCompra}");
+// Console.WriteLine($"É possível realizar a venda? {possivelVenda}");
+
+
+// if(quantidadeCompra == 0)
+// {
+//     Console.WriteLine("Venda inválida");
+// }
+// else if (possivelVenda)
+// {
+//     Console.WriteLine("Venda realizada");
+// }
+// else
+// {
+//     Console.WriteLine("Desculpe, nao temos a quantidade desejada em estoque");
+// }
+
+
+
+// Console.WriteLine("Digite uma letra");
+// string letra = Console.ReadLine();
+
+// switch (letra)
+// {
+//     case "a" : 
+//     case "e" : 
+//     case "i" : 
+//     case "o" : 
+//     case "u" :
+//         Console.WriteLine("Vogal");
+//         break;
+//     default:
+//         Console.WriteLine("Nâo é vogal");
+//         break;
+// }
+
+
+// bool ehMaiorDeIdade = true;
+// bool possuiAltorizacaoResponsavel = false;
+
+
+// if (ehMaiorDeIdade || possuiAltorizacaoResponsavel)
+// {
+//     Console.WriteLine("Tudo bem, pode entrar.");
+// }
+// else
+// {
+//     Console.WriteLine("Entrda não liberada.");
+// }
+
+// Console.WriteLine("Informe sua idade");
+// int idade = int.Parse(Console.ReadLine());
+
+// if(idade >= 18)
+// {
+//     Console.WriteLine("Entrada permitida");
+// }
+// else{
+//     Console.WriteLine("Entrada não permitida");
+// }
+
+// bool presencaMinima = true;
+// double notaMedia =6;
+
+// if(presencaMinima && notaMedia >= 7)
+// {
+//     Console.WriteLine("Parabens, você passou de ano");
+// }
+// else
+// {
+//     Console.WriteLine("Você não passou de ano");
+// }
+
+
+Console.WriteLine("Informe sua nota: ");
+double nota = double.Parse(Console.ReadLine());
+
+Console.WriteLine("Informe sua media presente: ");
+int presenca = int.Parse(Console.ReadLine());
+
+if(nota >= 7 && presenca >= 10)
+{
+    Console.WriteLine("Voce está aprovado");
+}
+else
+{
+    Console.WriteLine("Você não está aprovado");
+}

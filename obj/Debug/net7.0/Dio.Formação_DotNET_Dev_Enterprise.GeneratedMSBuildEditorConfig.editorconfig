@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Dio.Formação_DotNET_Dev_Enterprise
-build_property.ProjectDir = /Users/oberdanmarinho/Projects/Dio.Sepro-FormacaoDotNetDevEnterprise/
+build_property.ProjectDir = D:\Dio.Sepro-FormacaoDotNetDevEnterprise\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
