@@ -20,7 +20,7 @@
 
 > Sintaxe e Tipos de Dados em C# OK<br>
 
-    [SINTAXE E IDENTAÇÃO] OK
+    *[SINTAXE E IDENTAÇÃO] OK
       Aula 01 OK
       Aula 02 OK
       Aula 03 OK
@@ -33,20 +33,20 @@
       Aula 10 OK
       Aula 11 OK
 
-    [TIPOS DE DADOS] OK
+    *[TIPOS DE DADOS] OK
       Aula 01 OK
       Aula 02 OK
       Aula 03 OK
       Aula 04 OK
       Aula 05 OK
 
-    [MATERIAIS DE APOIO E QUESTIONÁRIO] OK
+    *[MATERIAIS DE APOIO E QUESTIONÁRIO] OK
       Material de apoio OK
       Certfique seu conhecimento OK
 
 > Tipo de operadores em C# OK<br>
 
-    [OPERADORES DE ATRIBUIÇÃO] OK (Etapa 7)
+    *[OPERADORES DE ATRIBUIÇÃO] OK (Etapa 7)
       Aula 01 OK
       Aula 02 OK
       Aula 03 OK
@@ -56,14 +56,14 @@
       Aula 07 OK
       Aula 08 OK
 
-    [OPERADORES CONDICIONAIS] OK (Etapa 8)
+    *[OPERADORES CONDICIONAIS] OK (Etapa 8)
       Aula 01 OK
       Aula 02 OK
       Aula 03 OK
       Aula 04 OK
       Aula 05 OK
 
-    [OPERADORES LOGICOS] OK (Etapa 9)
+    *[OPERADORES LOGICOS] OK (Etapa 9)
       Aula 01 OK
       Aula 02 OK
       Aula 03 OK
@@ -71,13 +71,13 @@
       Aula 05 OK
       Aula 06 OK
 
-    [MATERIAIS DE APOIO E QUESTIONÁRIO] OK
+    *[MATERIAIS DE APOIO E QUESTIONÁRIO] OK
       Material de apoio OK
       Certfique seu conhecimento OK
 
 > Operadores atitiméciso em C# <br>
 
-    [OPERADORES ARITIMÉCISO E CLASSE MATH] OK (Etapa 10)
+    *[OPERADORES ARITIMÉCISO E CLASSE MATH] OK (Etapa 10)
       Aula 01 OK
       Aula 02 OK
       Aula 03 OK
@@ -85,13 +85,13 @@
       Aula 05 OK
       Aula 06 OK 
     
-    [MATERIAIS DE APOIO E QUESTIONÁRIO] OK
+    *[MATERIAIS DE APOIO E QUESTIONÁRIO] OK
       Material de apoio OK
       Certfique seu conhecimento OK
       
 > Conhecendo as Estruturas de Repetição em C# <br>
 
-    [ESTRUTURA DE REPETIÇÃO]
+    *[ESTRUTURA DE REPETIÇÃO]
       Aula 01
       Aula 02
       Aula 03
@@ -103,7 +103,6 @@
       Aula 09
       Aula 10
 
-    [MATERIAIS DE APOIO E QUESTIONÁRIO]
+    *[MATERIAIS DE APOIO E QUESTIONÁRIO]
       Material de apoio
       Certfique seu conhecimento
-        
