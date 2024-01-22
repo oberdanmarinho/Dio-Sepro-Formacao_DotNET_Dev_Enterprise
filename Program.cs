@@ -1,4 +1,5 @@
 ﻿using System.Diagnostics;
+using Dio.Formação_DotNET_Dev_Enterprise.Models;
 using Dio.Sepro_FormacaoDotNetDevEnterprise.Models;
 
 // Pessoa (tipo da classe) | pessoa1(nome da variável que representa a classe) | new(instanciamento de classe) | Pessoa(Nome da classe instanciada)
@@ -106,17 +107,66 @@ using Dio.Sepro_FormacaoDotNetDevEnterprise.Models;
 // }
 
 
-Console.WriteLine("Informe sua nota: ");
-double nota = double.Parse(Console.ReadLine());
+//Console.WriteLine("Informe sua nota: ");
+//double nota = double.Parse(Console.ReadLine());
 
-Console.WriteLine("Informe sua media presente: ");
-int presenca = int.Parse(Console.ReadLine());
+//Console.WriteLine("Informe sua media presente: ");
+//int presenca = int.Parse(Console.ReadLine());
 
-if(nota >= 7 && presenca >= 10)
-{
-    Console.WriteLine("Voce está aprovado");
-}
-else
-{
-    Console.WriteLine("Você não está aprovado");
-}
+//if (nota >= 7 && presenca >= 10)
+//{
+//    Console.WriteLine("Voce está aprovado");
+//}
+//else
+//{
+//    Console.WriteLine("Você não está aprovado");
+//}
+
+
+//bool choveu = true;
+//bool estaTarde = true;
+
+//if (!choveu && !estaTarde)
+//{
+//    Console.WriteLine("Vou pedalar");
+//}
+//else
+//{
+//    Console.WriteLine("Vou pedalar outro dia");
+//}
+
+Calculadora calc = new Calculadora();
+
+//calc.Somar(10, 30);
+//calc.Subtrair(10, 50);
+//calc.Multiplicar(15, 45);
+//calc.Dividir(2, 2);
+
+
+//calc.Potencia(3, 3);
+
+
+//calc.Seno(30);
+//calc.Cosseno(30);
+//calc.Tangenge(30);
+calc.raizQuadrada(9);
+
+//int numeroIncremento = 10;
+
+//int numeroDecremento = 20;
+
+//Console.WriteLine(numeroIncremento);
+//Console.WriteLine("Incrementando o 10");
+////numero = numero + 1;
+//numeroIncremento++;
+//Console.WriteLine(numeroIncremento);
+
+//Console.WriteLine(numeroDecremento);
+//Console.WriteLine("Decremento do 20");
+//numeroDecremento--;
+//Console.WriteLine(numeroDecremento);
+
+
+
+
+
