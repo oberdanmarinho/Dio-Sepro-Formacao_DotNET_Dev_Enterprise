@@ -63,7 +63,7 @@
       Aula 04 OK
       Aula 05 OK
 
-    [OPERADORES LOGICOS] (Etapa 9)
+    [OPERADORES LOGICOS] OK (Etapa 9)
       Aula 01 OK
       Aula 02 OK
       Aula 03 OK
