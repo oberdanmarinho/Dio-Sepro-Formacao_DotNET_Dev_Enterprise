@@ -14,7 +14,9 @@
 
 17.01.2024-22:54 OK (HP)<br>
 
-21.01.2024-16:51 ok (HP0<br>
+21.01.2024-16:51 OK (HP)<br>
+
+22.01.2024-23:59 OK (HP)<br>
 
 
 
@@ -92,8 +94,8 @@
 > Conhecendo as Estruturas de Repetição em C# <br>
 
     *[ESTRUTURA DE REPETIÇÃO]
-      Aula 01
-      Aula 02
+      Aula 01 OK
+      Aula 02 OK
       Aula 03
       Aula 04
       Aula 05

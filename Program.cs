@@ -135,7 +135,7 @@ using Dio.Sepro_FormacaoDotNetDevEnterprise.Models;
 //    Console.WriteLine("Vou pedalar outro dia");
 //}
 
-Calculadora calc = new Calculadora();
+//Calculadora calc = new Calculadora();
 
 //calc.Somar(10, 30);
 //calc.Subtrair(10, 50);
@@ -149,7 +149,7 @@ Calculadora calc = new Calculadora();
 //calc.Seno(30);
 //calc.Cosseno(30);
 //calc.Tangenge(30);
-calc.raizQuadrada(9);
+//calc.raizQuadrada(9);
 
 //int numeroIncremento = 10;
 
@@ -167,6 +167,11 @@ calc.raizQuadrada(9);
 //Console.WriteLine(numeroDecremento);
 
 
+int numero = 5;
 
 
 
+for(int contador = 0; contador <= 10 ; contador++ )
+{
+    Console.WriteLine($"{numero} x {contador} = {numero * contador}");
+}
