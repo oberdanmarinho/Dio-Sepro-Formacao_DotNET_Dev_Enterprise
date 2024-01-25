@@ -142,9 +142,7 @@ using Dio.Sepro_FormacaoDotNetDevEnterprise.Models;
 //calc.Multiplicar(15, 45);
 //calc.Dividir(2, 2);
 
-
 //calc.Potencia(3, 3);
-
 
 //calc.Seno(30);
 //calc.Cosseno(30);
@@ -166,12 +164,45 @@ using Dio.Sepro_FormacaoDotNetDevEnterprise.Models;
 //numeroDecremento--;
 //Console.WriteLine(numeroDecremento);
 
+// int numero = 5;
 
-int numero = 5;
+// for(int contador = 0; contador <= 10 ; contador++ )
+// {
+//     Console.WriteLine($"{numero} x {contador} = {numero * contador}");
+// }
 
 
+// int numero = 5;
+// int contador = 0;
 
-for(int contador = 0; contador <= 10 ; contador++ )
+
+// while (contador <= 10)
+// {
+//     Console.WriteLine($"{contador + 1}° Execução: {numero} x {contador} = {numero * contador}");
+//     contador++;
+
+//     if(contador == 6)
+//     {
+//         break;
+//     }
+// } 
+
+int numero, soma = 0;
+
+
+do
 {
-    Console.WriteLine($"{numero} x {contador} = {numero * contador}");
-}
+    Console.WriteLine("Digite um número (0 para parar)");
+    numero = Convert.ToInt32(Console.ReadLine());
+
+    soma += numero;
+
+
+
+} while(numero != 0);
+
+
+Console.WriteLine($"Total da soma dos numeros digitados é: {soma}");
+
+
+

@@ -96,12 +96,12 @@
     *[ESTRUTURA DE REPETIÇÃO]
       Aula 01 OK
       Aula 02 OK
-      Aula 03
-      Aula 04
-      Aula 05
-      Aula 06
-      Aula 07
-      Aula 08
+      Aula 03 OK
+      Aula 04 OK
+      Aula 05 OK
+      Aula 06 OK
+      Aula 07 OK
+      Aula 08 OK
       Aula 09
       Aula 10
 
