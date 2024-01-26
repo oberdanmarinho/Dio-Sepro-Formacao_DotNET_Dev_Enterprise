@@ -102,9 +102,9 @@
       Aula 06 OK
       Aula 07 OK
       Aula 08 OK
-      Aula 09
-      Aula 10
+      Aula 09 OK
+      Aula 10 OK
 
     *[MATERIAIS DE APOIO E QUESTIONÁRIO]
-      Material de apoio
-      Certfique seu conhecimento
+      Material de apoio OK
+      Certfique seu conhecimento OK
